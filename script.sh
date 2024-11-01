@@ -1,7 +1,7 @@
 #!/bin/bash
 GITHUB_REPO="nagarajcap/RestTests"  
 GITHUB_TOKEN="dGpwS2AIpepeTGx5ZiapX2muZtgs1025YeLR"    
-GITHUB_WORKFLOW="FT_RestTests.yml"      
+GITHUB_WORKFLOW="FT_Rest.yml"      
 REF="main"                             
 
 # Trigger GitHub Action via GitHub API
