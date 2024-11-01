@@ -1,6 +1,6 @@
 #!/bin/bash
 GITHUB_REPO="nagarajcap/RestTests"  
-GITHUB_TOKEN="dGpwS2AIpepeTGx5ZiapX2muZtgs1025YeLR"    
+GITHUB_TOKEN="9RQFlph2RrKq3tRpl01Ei2neGQ4SOt13UiHE"    
 GITHUB_WORKFLOW="Rest.yml"      
 REF="main"                             
 
