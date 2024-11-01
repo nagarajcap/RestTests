@@ -1,4 +1,4 @@
-name: Hello World Action
+name: RestTests
 
 on:
   workflow_dispatch:
