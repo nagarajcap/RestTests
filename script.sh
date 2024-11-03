@@ -1,7 +1,7 @@
 #!/bin/bash
 GITHUB_REPO=$1  
 GITHUB_TOKEN="9RQFlph2RrKq3tRpl01Ei2neGQ4SOt13UiHE"    
-GITHUB_WORKFLOW="Rest.yml"      
+GITHUB_WORKFLOW=$2     
 REF="main"                             
 
 # Trigger GitHub Action via GitHub API
