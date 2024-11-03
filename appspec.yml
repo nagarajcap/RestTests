@@ -7,4 +7,12 @@ hooks:
   AfterInstall:
     - timeout: 300
       runas: ec2-user
-      location: script.sh
+      location: script.sh nagarajcap/RestTests Rest.yml
+    - timeout: 300
+      runas: ec2-user
+      location: script.sh nagarajcap/WSTests wstests.yml
+    - timeout: 300
+      runas: ec2-user
+      location: script.sh nagarajcap/Rest-Python python.yml
+
+
